@@ -1,0 +1,192 @@
+@media(max-width: 920px){
+    nav{
+        display: none;}
+
+    .burger-bar{
+        display: block;
+    }
+    
+}
+
+@media(max-width: 1024px){
+    .cont-box{ width: 320px;    
+    }
+    .img-rs{ width: 330px;
+    }
+    .textarea-element{
+        width: 630px;
+    }
+    .sender-box{
+        width: 450px;
+    }
+    .textarea{
+        width: 620px;
+    }
+    .txt-box{
+        padding-left: 50px;
+    }
+    .photos-hed{
+        padding-left: 50px; 
+    }
+}
+
+@media(max-width: 768px){
+    .cont-box{ width: 230px;    
+    }
+    .img-rs{ width: 240px;
+    }
+    .textarea-element{
+        width: 480px;
+    }
+    .sender-box{
+        width: 250px;
+    }
+    .textarea{
+        width: 480px;
+    }
+    .txt-box{
+        padding-left: 30px;
+    }
+    .photos-hed{
+        padding-left: 30px; 
+    }
+    .map-box{
+        margin-top: 20px;
+    }
+}
+
+@media(max-width: 480px){
+    .cont-box{ width: 480px;    
+    }
+    .img-rs{ width: 480px;
+        margin: 0 auto;
+    }
+    .textarea-element{
+        width: 480px;
+    }
+    .sender-box{
+        width:480px;
+        margin: 0 auto;
+    }
+    .textarea{
+        width: 480px;
+    }
+    .txt-box{
+        padding-left: 30px;
+    }
+    .photos-hed{
+        padding-left: 30px; 
+    }
+    .map-box{
+        margin-top: 20px;
+    }
+    .send-button{
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    .imput-element{
+        width:480px;
+    }
+
+    .photos-hed{
+        max-width: 450px;
+        margin: 0 auto;
+    }
+    .rs-coment{
+        font-size: 35px;
+       margin-bottom: 20px;
+    }
+
+    .contact-box-ft{
+
+     margin: 0 auto;
+     text-align: center;
+     margin-left: 25px;
+    }
+
+
+
+}
+
+@media(max-width: 320px){
+    .cont-box{ width: 320px;    
+    }
+    .img-rs{ width: 320px;
+        margin: 0 auto;
+    }
+    .textarea-element{
+        width: 310px;
+    }
+    .sender-box{
+        width:310px;
+        margin: 0 auto;
+    }
+    .textarea{
+        width: 310px;
+    }
+    .txt-box{
+        display: none;
+    }
+    .photos-hed{
+        padding-left: 30px; 
+        display: none;
+    }
+    .map-box{
+        margin-top: 20px;
+    }
+    .send-button{
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    .imput-element{
+        width:310px;
+    }
+
+    .photos-hed{
+        max-width: 320px;
+        margin: 0 auto;
+        background: blanchedalmond;
+    }
+    .rs-coment{
+      font-size: 15px;
+       margin: 0 auto;
+    }
+
+    .contact-box-ft{
+
+     width: 250px;
+     margin: 0 auto;
+     
+    }
+
+    .left-box-header{
+        width: 100%;
+        margin: 0 auto;
+
+    }
+    .footer{
+        width: 320px;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .social-icon{
+        max-width: 300px;
+        margin: 0;
+    
+    }
+
+    .txt-item{
+        display: none;
+    }
+
+    .useful{
+        
+        max-width: 300px;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+}
